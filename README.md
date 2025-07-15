@@ -7,6 +7,7 @@ This project demonstrates how to analyze and transform Apple stock data using Mi
 - `apple_stock_data.ipynb`: Main Jupyter notebook containing analysis using Microsoft Fabric (PySpark + SQL).
 - `requirements.txt`: Dependencies needed to run the PySpark code locally or in a compatible environment.
 - `README.md`: Project overview and setup instructions.
+- `apple_stock_data.csv`: Source data.
 
 ## ⚙️ Environment
 
